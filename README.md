@@ -1,4 +1,5 @@
-# Pet-project---QR-Code-Generator  
+# Pet-project---QR-Code-Generator 
+https://dv-nn.github.io/Pet-project---QR-Code-Generator/  
 
 - HTML    
 - CSS      
